@@ -1,0 +1,6 @@
+[package]
+name = "dining_philosophers"
+version = "0.1.0"
+authors = ["katsuNakajima <40666782+katsuNakajima@users.noreply.github.com>"]
+
+[dependencies]
